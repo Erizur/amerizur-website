@@ -1,3 +1,3 @@
-# amerizur.github.io
+# website
 
 my own github website
